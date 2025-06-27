@@ -3,20 +3,14 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.Python/
+.python/
 venv/
 .venv/
 
-# Environment files
+# Environment
 .env
-.env*
-!.env.MTM4Nzk3ODQ0NDEzMzg5MjE0Nw.GPkA5y.eJh9NWROMF-Z_3iTKv45oTmSt0hyvS-0mig4Ek
 secrets/
 
-# Discord configs
+# Discord
 config.json
 token.json
-
-# IDE files
-.vscode/
-.idea/
