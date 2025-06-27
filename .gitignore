@@ -10,7 +10,7 @@ venv/
 # Environment files
 .env
 .env*
-!.env.example
+!.env.MTM4Nzk3ODQ0NDEzMzg5MjE0Nw.GPkA5y.eJh9NWROMF-Z_3iTKv45oTmSt0hyvS-0mig4Ek
 secrets/
 
 # Discord configs
