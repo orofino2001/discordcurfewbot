@@ -1,11 +1,9 @@
-# 🌙 Discord Curfew Bot
-Kicks users from voice channels at their specified bedtime
-
-## Features
-- Set custom timezones
-- Personalized bedtime reminders
-- Auto-disconnect from VC
+# 🌙 Discord Bedtime Bot
+Kicks users from voice channels at their bedtime
 
 ## Setup
 1. Clone this repo
-2. Create a `.env` file with:
+2. Install dependencies: `pip install -r requirements.txt`
+3. Create `.env` file:
+   ```ini
+   DISCORD_TOKEN=your_bot_token_here
