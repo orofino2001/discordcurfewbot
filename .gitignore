@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python/
+venv/
+.venv/
+
+# Environment files
+.env
+.env*
+!.env.example
+secrets/
+
+# Discord configs
+config.json
+token.json
+
+# IDE files
+.vscode/
+.idea/
